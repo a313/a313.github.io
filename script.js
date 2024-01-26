@@ -1,6 +1,6 @@
 var appName = "Smart Cleaner Phone - Storage Cleanup";
 
-var date = "2023-04-11";
+var date = "2024-26-01";
 
 function onIndexLoad() {
     document.title = appName + " Flutter";

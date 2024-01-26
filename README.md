@@ -2,8 +2,8 @@
 
 ## Policy
 
-https://ditustudio.github.io/faceswap/policy.html
+https://a313.github.io/policy.html
 
 ## Term
 
-https://ditustudio.github.io/faceswap/term.html
+https://a313.github.io/term.html
